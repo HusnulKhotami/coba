@@ -17,6 +17,8 @@ public class Kuis2pbo {
 
         System.out.println("makan makan apa yanag enak yaa?");
         System.out.println("coba yang bisa tebak....");
+
+        System.out.println("oke gass aja lah");
     }
     
 }
