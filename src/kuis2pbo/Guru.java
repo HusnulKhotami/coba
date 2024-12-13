@@ -37,4 +37,6 @@ public class Guru {
     }
 }
 
+//komen komen gak jelas aja biar bisaa
+
 
