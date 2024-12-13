@@ -14,6 +14,9 @@ public class Kuis2pbo {
         int n = in.nextInt();
         
         System.out.println("angka yang diinput: " + n +"\n" + "selesai");
+
+        System.out.println("makan makan apa yanag enak yaa?");
+        System.out.println("coba yang bisa tebak....");
     }
     
 }
